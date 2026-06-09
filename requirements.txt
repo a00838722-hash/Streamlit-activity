@@ -4,4 +4,7 @@ numpy == 1.26.4
 matplotlib == 3.9.4
 plotly
 streamlit-dynamic-filters
+openpyxlstreamlit-dynamic-filters
+openpyxl
+streamlit-dynamic-filters
 openpyxl

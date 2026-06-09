@@ -8,7 +8,7 @@ import plotly.express as px
 #Mateo Cañamar Marrufo A00838722
 #22/05/2026
 
-df = pd.read_excel("/Users/mateoc/Desktop/Analítica de Datos y Herramientas de IA/Streamllit/sellers.xlsx")
+df = pd.read_excel("sellers.xlsx")
 
 df["FULL NAME"] = df["NAME"] + " " + df["LASTNAME"]
 
