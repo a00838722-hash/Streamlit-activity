@@ -1,10 +1,7 @@
-streamlit == 1.50.0
-pandas == 2.3.3
-numpy == 1.26.4
-matplotlib == 3.9.4
+streamlit
+pandas
+numpy
+matplotlib
 plotly
-streamlit-dynamic-filters
-openpyxlstreamlit-dynamic-filters
-openpyxl
 streamlit-dynamic-filters
 openpyxl
