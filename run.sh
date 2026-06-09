@@ -1,3 +1,3 @@
 #!/bin/bash
 streamlit run --browser.serverAddress $SERVER_NAME --
-server.port $PORT main.py
+server.port $PORT streamlitact.py
